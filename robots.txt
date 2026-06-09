@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://latatours.ideaclicks.in/sitemap.xml
